@@ -7,3 +7,8 @@ You can change the type of header you would like to use by adding more hashtags(
 ###### h6 - '###### '
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
