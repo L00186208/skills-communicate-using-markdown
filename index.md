@@ -1,0 +1,7 @@
+In order to create a header you must use the hashtag(#) character followed by a space.
+
+You can change the type of header you would like to use by adding more hashtags(#) before the space.
+
+# h1 - '# '
+## h2 - '## '
+###### h6 - '###### '
