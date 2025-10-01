@@ -5,3 +5,5 @@ You can change the type of header you would like to use by adding more hashtags(
 # h1 - '# '
 ## h2 - '## '
 ###### h6 - '###### '
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
